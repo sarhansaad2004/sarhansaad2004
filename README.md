@@ -1,4 +1,3 @@
-![MasterHead](https://camo.githubusercontent.com/f68e1dadfdb6904f8320b8f20e1794d39efeb536fbe9b5d9891a64e5bb730b0a/68747470733a2f2f7777772e63617265657267756964652e636f6d2f6361726565722f77702d636f6e74656e742f75706c6f6164732f323032302f30332f67697068792d372e676966)
 <h1 align="center">Hello there 👋, I'm Sarhan Saad</h1>
 <h3 align="center">A passionate student who wants to explore the world of coding</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"
